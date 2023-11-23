@@ -9,6 +9,6 @@
         <artifactId>books.jvm.internal</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>chapter2</artifactId>
+    <artifactId>chapter3</artifactId>
 
 </project>
