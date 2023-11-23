@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-package org.soujava.metadata.example;
+package expert.os.metadata.example;
 
 import java.util.List;
 import expert.os.api.Column;

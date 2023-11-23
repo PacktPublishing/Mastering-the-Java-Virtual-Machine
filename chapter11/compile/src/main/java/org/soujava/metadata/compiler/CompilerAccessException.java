@@ -1,4 +1,4 @@
-package org.soujava.metadata.compiler;
+package expert.os.metadata.compiler;
 
 public class CompilerAccessException extends RuntimeException{
 

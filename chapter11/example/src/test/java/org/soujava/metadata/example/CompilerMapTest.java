@@ -1,7 +1,7 @@
-package org.soujava.metadata.example;
+package expert.os.metadata.example;
 
 import expert.os.api.Mapper;
-import org.soujava.metadata.compiler.CompileMapper;
+import expert.os.metadata.compiler.CompileMapper;
 
 public class CompilerMapTest extends AbstractMapperTest {
 

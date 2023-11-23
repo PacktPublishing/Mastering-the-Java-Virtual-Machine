@@ -1,4 +1,4 @@
-package org.soujava.metadata.compiler;
+package expert.os.metadata.compiler;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

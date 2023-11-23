@@ -1,6 +1,6 @@
 package {0};
 
-import org.soujava.metadata.compiler.InstanceSupplier;
+import expert.os.metadata.compiler.InstanceSupplier;
 import javax.annotation.processing.Generated;
 
 @Generated("Soujava InstanceSupplier Generator")

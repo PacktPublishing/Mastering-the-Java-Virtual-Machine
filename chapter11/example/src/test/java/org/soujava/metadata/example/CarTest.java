@@ -1,4 +1,4 @@
-package org.soujava.metadata.example;
+package expert.os.metadata.example;
 
 import expert.os.processor.ProcessorClassMappings;
 import org.junit.Assert;

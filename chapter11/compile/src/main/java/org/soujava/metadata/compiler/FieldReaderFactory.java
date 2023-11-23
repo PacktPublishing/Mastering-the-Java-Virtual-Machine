@@ -1,4 +1,4 @@
-package org.soujava.metadata.compiler;
+package expert.os.metadata.compiler;
 
 import java.beans.PropertyDescriptor;
 import java.lang.reflect.Field;

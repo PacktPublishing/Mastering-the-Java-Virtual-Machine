@@ -1,4 +1,4 @@
-package org.soujava.metadata.compiler;
+package expert.os.metadata.compiler;
 
 import expert.os.api.Column;
 import expert.os.api.Id;

@@ -1,6 +1,6 @@
 package {0};
 
-import org.soujava.metadata.compiler.FieldWriter;
+import expert.os.metadata.compiler.FieldWriter;
 import javax.annotation.processing.Generated;
 
 @Generated("Soujava Writer Reader Generator")

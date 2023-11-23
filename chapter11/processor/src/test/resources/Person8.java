@@ -1,4 +1,4 @@
-package org.soujava.example.model;
+package expert.os.example.model;
 
 
 import expert.os.api.Column;

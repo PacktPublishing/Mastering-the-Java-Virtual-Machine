@@ -15,6 +15,6 @@ public class ClassMappingsModel extends BaseMappingModel {
     }
 
     public String getQualified() {
-        return "org.soujava.metadata.processor.ProcessorClassMappings";
+        return "expert.os.metadata.processor.ProcessorClassMappings";
     }
 }

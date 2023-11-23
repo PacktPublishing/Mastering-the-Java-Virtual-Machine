@@ -1,4 +1,4 @@
-package org.soujava.metadata.example;
+package expert.os.metadata.example;
 
 import expert.os.api.Mapper;
 import expert.os.processor.ProcessorMap;
