@@ -1,7 +1,7 @@
-package expert.os.metadata.example;
+package expert.os.example;
 
 import expert.os.api.Mapper;
-import expert.os.metadata.reflection.ReflectionMapper;
+import expert.os.reflection.ReflectionMapper;
 
 public class ReflectionMapTest extends AbstractMapperTest {
 

@@ -1,4 +1,4 @@
-package expert.os.metadata.example;
+package expert.os.example;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

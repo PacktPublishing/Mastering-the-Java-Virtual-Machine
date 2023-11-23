@@ -1,4 +1,4 @@
-package expert.os.metadata.example;
+package expert.os.example;
 
 import expert.os.processor.ProcessorClassMappings;
 import org.junit.Assert;
@@ -33,8 +33,8 @@ public class PersonTest {
 
     @Test
     public void shouldSetter() {
-        Person person = new expert.os.metadata.example.PersonEntityMetaData().newInstance();
-        new expert.os.metadata.example.PersonEmailFieldMetaData().write(person, "otavio");
-        Assertions.assertEquals("otavio", new expert.os.metadata.example.PersonEmailFieldMetaData().read(person));
+        Person person = new expert.os.example.PersonEntityMetaData().newInstance();
+        new expert.os.metadata.PersonEmailFieldMetaData().write(person, "otavio");
+        Assertions.assertEquals("otavio", new expert.os.metadata.PersonEmailFieldMetaData().read(person));
     }
 }

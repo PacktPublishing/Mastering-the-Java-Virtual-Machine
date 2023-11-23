@@ -1,4 +1,4 @@
-package expert.os.metadata.example;
+package expert.os.example;
 
 import expert.os.processor.ProcessorClassMappings;
 import org.junit.Assert;

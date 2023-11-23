@@ -1,4 +1,4 @@
-package expert.os.metadata.example;
+package expert.os.example;
 
 import expert.os.api.Column;
 import expert.os.api.Entity;
