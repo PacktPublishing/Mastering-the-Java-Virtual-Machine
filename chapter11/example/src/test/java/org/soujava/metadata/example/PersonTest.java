@@ -1,5 +1,6 @@
 package org.soujava.metadata.example;
 
+import expert.os.processor.ProcessorClassMappings;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
@@ -11,7 +12,7 @@ import java.util.Map;
 
 public class PersonTest {
 
-    private ClassMappings mappings = new org.soujava.metadata.processor.ProcessorClassMappings();
+    private ClassMappings mappings = new ProcessorClassMappings();
 
     @Test
     public void shouldCreate() {
