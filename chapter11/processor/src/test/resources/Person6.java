@@ -1,8 +1,8 @@
 package org.soujava.example.model;
 
 
-import org.soujava.medatadata.api.Entity;
-import org.soujava.medatadata.api.Column;
+import expert.os.api.Entity;
+import expert.os.api.Column;
 
 import java.util.List;
 

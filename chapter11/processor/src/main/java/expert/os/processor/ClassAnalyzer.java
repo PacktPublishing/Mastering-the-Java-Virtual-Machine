@@ -3,8 +3,8 @@ package expert.os.processor;
 import com.github.mustachejava.DefaultMustacheFactory;
 import com.github.mustachejava.Mustache;
 import com.github.mustachejava.MustacheFactory;
-import org.soujava.medatadata.api.Entity;
-import org.soujava.medatadata.api.MapperException;
+import expert.os.api.Entity;
+import expert.os.api.MapperException;
 
 import javax.annotation.processing.Filer;
 import javax.annotation.processing.ProcessingEnvironment;

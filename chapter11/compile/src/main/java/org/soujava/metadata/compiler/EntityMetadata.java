@@ -1,6 +1,6 @@
 package org.soujava.metadata.compiler;
 
-import org.soujava.medatadata.api.Entity;
+import expert.os.api.Entity;
 
 import java.util.List;
 

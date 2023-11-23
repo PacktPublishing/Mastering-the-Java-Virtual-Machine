@@ -1,6 +1,6 @@
 package org.soujava.metadata.example;
 
-import org.soujava.medatadata.api.Mapper;
+import expert.os.api.Mapper;
 import expert.os.processor.ProcessorMap;
 
 public class ProcessorMapTest extends AbstractMapperTest {

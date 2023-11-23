@@ -1,6 +1,6 @@
 package org.soujava.metadata.example;
 
-import org.soujava.medatadata.api.Mapper;
+import expert.os.api.Mapper;
 import org.soujava.metadata.reflection.ReflectionMapper;
 
 public class ReflectionMapTest extends AbstractMapperTest {

@@ -1,11 +1,11 @@
 package expert.os.reflection;
 
 
-import org.soujava.medatadata.api.Column;
-import org.soujava.medatadata.api.Constructor;
-import org.soujava.medatadata.api.Entity;
-import org.soujava.medatadata.api.Id;
-import org.soujava.medatadata.api.Param;
+import expert.os.api.Column;
+import expert.os.api.Constructor;
+import expert.os.api.Entity;
+import expert.os.api.Id;
+import expert.os.api.Param;
 
 @Entity
 public class Person {

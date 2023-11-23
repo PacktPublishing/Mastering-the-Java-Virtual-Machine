@@ -1,9 +1,9 @@
 package expert.os.reflection;
 
-import org.soujava.medatadata.api.Column;
-import org.soujava.medatadata.api.Id;
-import org.soujava.medatadata.api.MapperException;
-import org.soujava.medatadata.api.Param;
+import expert.os.api.Column;
+import expert.os.api.Id;
+import expert.os.api.MapperException;
+import expert.os.api.Param;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;

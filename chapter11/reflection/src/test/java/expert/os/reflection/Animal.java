@@ -1,9 +1,9 @@
 package expert.os.reflection;
 
 
-import org.soujava.medatadata.api.Column;
-import org.soujava.medatadata.api.Entity;
-import org.soujava.medatadata.api.Id;
+import expert.os.api.Column;
+import expert.os.api.Entity;
+import expert.os.api.Id;
 
 @Entity("animal")
 public class Animal {

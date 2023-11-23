@@ -1,7 +1,7 @@
 package org.soujava.example.model;
 
 
-import org.soujava.medatadata.api.Entity;
+import expert.os.api.Entity;
 
 @Entity("table")
 public class Person {

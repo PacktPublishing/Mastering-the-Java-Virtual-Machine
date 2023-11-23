@@ -1,8 +1,8 @@
 package expert.os.reflection;
 
-import org.soujava.medatadata.api.Entity;
-import org.soujava.medatadata.api.Mapper;
-import org.soujava.medatadata.api.MapperException;
+import expert.os.api.Entity;
+import expert.os.api.Mapper;
+import expert.os.api.MapperException;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
@@ -17,7 +17,7 @@ import java.util.stream.Stream;
 public class ReflectionMapper implements Mapper {
 
     private final static Predicate<Constructor<?>> HAS_CONSTRUCTOR_ANNOTATION = c -> c.getAnnotation(
-            org.soujava.medatadata.api.Constructor.class) != null;
+            expert.os.api.Constructor.class) != null;
     private static final Predicate<Constructor<?>> HAS_DEFAULT_CONSTRUCTOR = c -> c.getParameters().length == 0;
 
     @Override

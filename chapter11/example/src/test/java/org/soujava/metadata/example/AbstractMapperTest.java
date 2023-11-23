@@ -3,7 +3,7 @@ package org.soujava.metadata.example;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.soujava.medatadata.api.Mapper;
+import expert.os.api.Mapper;
 
 import java.util.Arrays;
 import java.util.HashMap;

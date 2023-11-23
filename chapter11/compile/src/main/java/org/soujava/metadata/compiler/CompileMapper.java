@@ -1,6 +1,6 @@
 package org.soujava.metadata.compiler;
 
-import org.soujava.medatadata.api.Mapper;
+import expert.os.api.Mapper;
 
 import java.util.HashMap;
 import java.util.Map;

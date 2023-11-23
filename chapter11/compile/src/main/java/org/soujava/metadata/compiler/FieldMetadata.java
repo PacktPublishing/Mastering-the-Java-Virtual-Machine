@@ -1,7 +1,7 @@
 package org.soujava.metadata.compiler;
 
-import org.soujava.medatadata.api.Column;
-import org.soujava.medatadata.api.Id;
+import expert.os.api.Column;
+import expert.os.api.Id;
 
 import java.lang.reflect.Field;
 

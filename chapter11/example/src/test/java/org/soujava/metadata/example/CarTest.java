@@ -4,9 +4,9 @@ import expert.os.processor.ProcessorClassMappings;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
-import org.soujava.medatadata.api.ClassMappings;
-import org.soujava.medatadata.api.EntityMetadata;
-import org.soujava.medatadata.api.FieldMetadata;
+import expert.os.api.ClassMappings;
+import expert.os.api.EntityMetadata;
+import expert.os.api.FieldMetadata;
 
 import java.util.Map;
 
