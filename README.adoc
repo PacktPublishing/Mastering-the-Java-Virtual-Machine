@@ -1,0 +1,53 @@
+= Mastering the Java Virtual Machine
+
+Welcome to the repository for the book "Mastering the Java Virtual Machine." This repository contains sample code and examples corresponding to each chapter of the book.
+
+== Table of Contents
+
+* link:Chapter1[Chapter 1: Introduction to the JVM]
+* link:Chapter2[Chapter 2: Java Class Files and Class Loading]
+* link:Chapter3[Chapter 3: Memory Management]
+* link:Chapter4[Chapter 4: JVM Execution Engine]
+* link:Chapter5[Chapter 5: Dynamic Class Loading and Classloaders]
+* link:Chapter6[Chapter 6: Garbage Collection]
+* link:Chapter7[Chapter 7: Memory Profiling]
+* link:Chapter8[Chapter 8: GraalVM and Alternative JVMs]
+* link:Chapter9[Chapter 9: Java Frameworks]
+* link:Chapter10[Chapter 10: Java Reflection]
+* link:Chapter11[Chapter 11: Java Annotation Processors]
+
+== About the Book
+
+The goal of "Mastering the Java Virtual Machine" is to provide readers with a comprehensive understanding of the Java Virtual Machine (JVM) and its internal workings. The book covers fundamental architecture, class files, memory management, execution engine, dynamic class loading, garbage collection, memory profiling, alternative JVMs, Java frameworks, reflection, and annotation processors.
+
+== Getting Started
+
+Each chapter's folder contains sample code and examples relevant to the respective topics covered in the book. You can explore these samples to deepen your understanding of JVM concepts and Java development.
+
+== How to Use
+
+1. Clone the repository to your local machine:
+
+[source,bash]
+----
+git clone git@github.com:PacktPublishing/Mastering-the-Java-Virtual-Machine.git
+----
+
+2. Navigate to the desired chapter's folder:
+
+[source,bash]
+----
+cd Mastering-the-Java-Virtual-Machine/ChapterX
+----
+
+3. Explore the provided code samples and examples.
+
+== Contributions
+
+Contributions are welcome! If you find any issues or have improvements to suggest, feel free to create a pull request.
+
+== License
+
+This repository is licensed under the link:LICENSE[MIT License]. Feel free to use the code for your educational and personal projects.
+
+Happy coding!
