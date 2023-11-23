@@ -37,11 +37,11 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.5.1</version>
+                <version>${maven.compile.version}</version>
                 <configuration>
                     <compilerArgument>-proc:none</compilerArgument>
-                    <source>11</source>
-                    <target>11</target>
+                    <target>${maven.compiler.target}</target>
+                    <source>${maven.compiler.source}</source>
                 </configuration>
             </plugin>
 

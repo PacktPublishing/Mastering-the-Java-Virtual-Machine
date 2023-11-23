@@ -34,7 +34,7 @@ public class PersonTest {
     @Test
     public void shouldSetter() {
         Person person = new expert.os.example.PersonEntityMetaData().newInstance();
-        new expert.os.metadata.PersonEmailFieldMetaData().write(person, "otavio");
-        Assertions.assertEquals("otavio", new expert.os.metadata.PersonEmailFieldMetaData().read(person));
+        new expert.os.example.PersonEmailFieldMetaData().write(person, "otavio");
+        Assertions.assertEquals("otavio", new expert.os.example.PersonEmailFieldMetaData().read(person));
     }
 }

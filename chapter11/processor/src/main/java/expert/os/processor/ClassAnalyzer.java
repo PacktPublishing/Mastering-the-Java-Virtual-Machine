@@ -71,7 +71,7 @@ public class ClassAnalyzer implements Supplier<String> {
 
         EntityModel metadata = getMetadata(typeElement, fields);
         createClass(entity, metadata);
-        LOGGER.info("Found the fields: " + fields);
+        LOGGER.info("Found the fields: " + fields + " to the class: " + metadata.getQualified());
         return metadata.getQualified();
     }
 
