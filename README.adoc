@@ -2,7 +2,7 @@
 
 Welcome to the repository for the book "Mastering the Java Virtual Machine." This repository contains sample code and examples corresponding to each chapter of the book.
 
-== Table of Contents
+== Chapters folder
 
 * link:Chapter1[Chapter 1: Introduction to the JVM]
 * link:Chapter2[Chapter 2: Java Class Files and Class Loading]
