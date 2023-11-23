@@ -1,0 +1,12 @@
+package {0};
+
+import org.soujava.metadata.compiler.FieldReader;
+import javax.annotation.processing.Generated;
+
+@Generated("Soujava Field Reader Generator")
+public class {1} implements FieldReader '{'
+    @Override
+    public Object read(Object bean) '{'
+        return {2}.class.cast(bean).{3}();
+    '}'
+'}'

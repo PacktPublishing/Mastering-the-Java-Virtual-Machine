@@ -1,0 +1,56 @@
+package {{packageName}};
+
+import org.soujava.medatadata.api.FieldMetadata;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.Collections;
+
+import javax.annotation.processing.Generated;
+
+@Generated(value= "Soujava FieldMetadata Generator", date = "{{now}}")
+public final class {{className}} implements FieldMetadata {
+
+  private Set<Class<?>> arguments;
+
+  public {{className}}() {
+    this.arguments = new HashSet<>();
+    {{#arguments}}
+    this.arguments.add({{.}}.class);
+    {{/arguments}}
+  }
+
+  @Override
+   public boolean isId() {
+    return {{id}};
+  }
+
+  @Override
+  public String getName() {
+    return "{{name}}";
+  }
+
+  @Override
+  public String getFieldName() {
+    return "{{fieldName}}";
+  }
+
+   @Override
+   public void write(Object bean, Object value) {
+    (({{entity}}) bean).{{writer}}(({{type}})value);
+   }
+
+   @Override
+   public Object read(Object bean) {
+    return (({{entity}}) bean).{{reader}}();
+   }
+
+   @Override
+   public Class<?> getType()  {
+    return {{type}}.class;
+   }
+
+   @Override
+   public Set<Class<?>> getArguments() {
+    return Collections.unmodifiableSet(arguments);
+   }
+}

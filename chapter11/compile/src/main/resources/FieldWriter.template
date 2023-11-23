@@ -1,0 +1,14 @@
+package {0};
+
+import org.soujava.metadata.compiler.FieldWriter;
+import javax.annotation.processing.Generated;
+
+@Generated("Soujava Writer Reader Generator")
+public class {1} implements FieldWriter '{'
+
+    @Override
+    public void write(Object bean, Object value) '{'
+        {2}.class.cast(bean).{3}(({4}) value);
+
+    '}'
+'}'

@@ -1,0 +1,12 @@
+package {0};
+
+import org.soujava.metadata.compiler.InstanceSupplier;
+import javax.annotation.processing.Generated;
+
+@Generated("Soujava InstanceSupplier Generator")
+public class {1} implements InstanceSupplier '{'
+    @Override
+    public Object get() '{'
+        return new {2}();
+    '}'
+}
