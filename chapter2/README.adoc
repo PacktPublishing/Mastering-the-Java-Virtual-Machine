@@ -1,0 +1,2 @@
+= Chapter 2
+:toc: auto
