@@ -1,10 +1,10 @@
-package org.soujava.metadata.processor;
+package expert.os.processor;
 
-import org.soujava.medatadata.api.ClassMappings;
-import org.soujava.medatadata.api.EntityMetadata;
-import org.soujava.medatadata.api.FieldMetadata;
-import org.soujava.medatadata.api.Mapper;
-import org.soujava.medatadata.api.MapperException;
+import expert.os.api.ClassMappings;
+import expert.os.api.EntityMetadata;
+import expert.os.api.FieldMetadata;
+import expert.os.api.Mapper;
+import expert.os.api.MapperException;
 
 import java.util.HashMap;
 import java.util.Map;

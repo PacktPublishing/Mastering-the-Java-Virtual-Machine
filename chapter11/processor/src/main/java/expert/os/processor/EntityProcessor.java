@@ -87,7 +87,7 @@ public class EntityProcessor extends AbstractProcessor {
     }
     private void createProcessorMap() throws IOException {
         Filer filer = processingEnv.getFiler();
-        JavaFileObject fileObject = filer.createSourceFile("org.soujava.metadata.processor.ProcessorMap");
+        JavaFileObject fileObject = filer.createSourceFile("expert.os.processor.ProcessorMap");
         try (Writer writer = fileObject.openWriter()) {
             final InputStream stream = EntityProcessor.class
                     .getClassLoader()
