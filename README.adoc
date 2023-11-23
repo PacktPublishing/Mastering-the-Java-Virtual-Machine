@@ -1,4 +1,5 @@
 = Mastering the Java Virtual Machine
+:toc: auto
 
 Welcome to the repository for the book "Mastering the Java Virtual Machine." This repository contains sample code and examples corresponding to each chapter of the book.
 
