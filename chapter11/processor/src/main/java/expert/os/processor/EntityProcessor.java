@@ -3,8 +3,8 @@ package expert.os.processor;
 import com.github.mustachejava.DefaultMustacheFactory;
 import com.github.mustachejava.Mustache;
 import com.github.mustachejava.MustacheFactory;
-import org.soujava.medatadata.api.Column;
-import org.soujava.medatadata.api.Id;
+import expert.os.api.Column;
+import expert.os.api.Id;
 
 import javax.annotation.processing.AbstractProcessor;
 import javax.annotation.processing.Filer;
@@ -32,7 +32,7 @@ import java.util.stream.Collectors;
 import static javax.lang.model.element.Modifier.PROTECTED;
 import static javax.lang.model.element.Modifier.PUBLIC;
 
-@SupportedAnnotationTypes("org.soujava.medatadata.api.Entity")
+@SupportedAnnotationTypes("expert.os.api.Entity")
 public class EntityProcessor extends AbstractProcessor {
 
     private static final EnumSet<Modifier> MODIFIERS = EnumSet.of(PUBLIC, PROTECTED);
