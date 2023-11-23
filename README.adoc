@@ -5,17 +5,17 @@ Welcome to the repository for the book "Mastering the Java Virtual Machine." Thi
 
 == Chapters folder
 
-* link:Chapter1[Chapter 1: Introduction to the JVM]
-* link:Chapter2[Chapter 2: Java Class Files and Class Loading]
-* link:Chapter3[Chapter 3: Memory Management]
-* link:Chapter4[Chapter 4: JVM Execution Engine]
-* link:Chapter5[Chapter 5: Dynamic Class Loading and Classloaders]
-* link:Chapter6[Chapter 6: Garbage Collection]
-* link:Chapter7[Chapter 7: Memory Profiling]
-* link:Chapter8[Chapter 8: GraalVM and Alternative JVMs]
-* link:Chapter9[Chapter 9: Java Frameworks]
-* link:Chapter10[Chapter 10: Java Reflection]
-* link:Chapter11[Chapter 11: Java Annotation Processors]
+* link:chapter1[Chapter 1: Introduction to the JVM]
+* link:chapter2[Chapter 2: Java Class Files and Class Loading]
+* link:chapter3[Chapter 3: Memory Management]
+* link:chapter4[Chapter 4: JVM Execution Engine]
+* link:chapter5[Chapter 5: Dynamic Class Loading and Classloaders]
+* link:chapter6[Chapter 6: Garbage Collection]
+* link:chapter7[Chapter 7: Memory Profiling]
+* link:chapter8[Chapter 8: GraalVM and Alternative JVMs]
+* link:chapter9[Chapter 9: Java Frameworks]
+* link:chapter10[Chapter 10: Java Reflection]
+* link:chapter11[Chapter 11: Java Annotation Processors]
 
 == About the Book
 
