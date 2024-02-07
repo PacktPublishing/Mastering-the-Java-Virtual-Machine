@@ -25,13 +25,13 @@
     </properties>
 
     <modules>
-        <module>chapter1</module>
-        <module>chapter2</module>
-        <module>chapter3</module>
-        <module>chapter5</module>
-        <module>chapter7</module>
-        <module>chapter10</module>
-        <module>chapter11</module>
+        <module>chapter-01</module>
+        <module>chapter-02</module>
+        <module>chapter-03</module>
+        <module>chapter-05</module>
+        <module>chapter-07</module>
+        <module>chapter-10</module>
+        <module>chapter-11</module>
     </modules>
 
     <dependencies>
