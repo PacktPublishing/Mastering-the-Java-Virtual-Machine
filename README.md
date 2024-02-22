@@ -10,7 +10,7 @@ This is the code repository for [Mastering the Java Virtual Machine](https://www
 Uncover JVM's core mechanics, optimize Java performance, and master memory management with this expert guide on the Java Virtual Machine.
 
 This book covers the following exciting features:
-*	Explore JVM internals, bytecode, & classloading.
+* Explore JVM internals, bytecode, & classloading.
 * Implement efficient memory management in the JVM.
 * Execute multithreading and synchronization in Java.
 * Enhance security through classloader mechanisms.
@@ -49,8 +49,8 @@ With the following software and hardware list you can run all code files present
 | Docker | Windows, OSx, or Linux |
 
 ## Related products
-* Cloud-Native Development and Migration to Jakarta EE [[Packt]](https://www.packtpub.com/product/cloud-native-development-and-migration-to-jakarta-ee/9781837639625) [[Amazon]](https://a.co/d/46nuKqW)
-* Developer Career Masterplan [[Packt]](https://www.packtpub.com/product/developer-career-masterplan/9781801818704) [[Amazon]](https://a.co/d/1JhgDOe)
+* Learn Java with Projects [[Packt]](https://www.packtpub.com/product/learn-java-with-projects/9781837637188) [[Amazon]](https://a.co/d/bS7kUdG)
+* Transitioning to Java [[Packt]](https://www.packtpub.com/product/transitioning-to-java/9781804614013) [[Amazon]](https://a.co/d/0t4A1hv)
 
 ## Get to Know the Author
 **Otavio Santana**
